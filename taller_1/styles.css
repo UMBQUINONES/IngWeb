@@ -9,3 +9,19 @@
             background-color: #ff5722;
             border-color: #ff5722;
         }
+        .navbar {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #ff5722; 
+        }
+        .navbar-brand {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .nav-link {
+            color: white !important;
+            margin-right: 15px;
+        }
+        .nav-link:hover {
+            color: #ff5722 !important; 
+        }
